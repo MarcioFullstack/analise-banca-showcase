@@ -33,10 +33,12 @@ A maior parte de sistemas de "IA gerando questão" simplesmente confia no modelo
 - **IA:** integração com múltiplos provedores de LLM via API, com camada de abstração para troca sem reescrita
 - **Testes:** suíte automatizada (150+ testes) cobrindo parser, pipeline de geração/auditoria, API e frontend
 
-## 📸 Capturas de tela
+## 🎥 Demonstração
 
-*(adicionar aqui — screenshots das telas de quiz e dashboard)*
+https://github.com/user-attachments/assets/2ed362fd-bd50-481e-a094-a77278ac307d
 
-## 🔗 Demonstração
+*Vídeo mostrando o fluxo completo: upload do edital, geração de questões, quiz interativo com feedback em tempo real, e dashboard de desempenho.*
+
+## 🔗 Deploy
 
 *(link de deploy, se/quando disponível)*
